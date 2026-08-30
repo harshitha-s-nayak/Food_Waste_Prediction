@@ -1,0 +1,12 @@
+date,day,meal,food_prepared_kg,people_served,temperature_c,event,food_wasted_kg
+2026-01-01,Thursday,Lunch,50,40,28,No,8
+2026-01-02,Friday,Breakfast,30,25,27,No,4
+2026-01-03,Saturday,Lunch,60,50,29,Yes,10
+2026-01-04,Sunday,Dinner,45,38,30,No,7
+2026-01-05,Monday,Lunch,40,35,26,No,5
+2026-01-06,Tuesday,Dinner,55,45,28,No,8
+2026-01-07,Wednesday,Breakfast,25,20,25,No,3
+2026-01-08,Thursday,Lunch,70,55,31,Yes,13
+2026-01-09,Friday,Dinner,50,42,29,No,7
+2026-01-10,Saturday,Lunch,65,52,30,Yes,11
+2026-01-11,Sunday,Dinner,48,40,27,No,6
