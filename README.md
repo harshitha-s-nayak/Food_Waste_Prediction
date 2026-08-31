@@ -235,3 +235,7 @@ Information Science and Engineering
 ## 📜 License
 
 This project is developed for educational and academic purposes.
+## 📚 Project Documentation
+
+- [Viva Questions & Answers](docs/Food_Waste_Prediction_Viva_Questions_and_Answers.pdf)
+- [Live Streamlit Application](https://foodwasteprediction-5eyvaceqkogmfvizbcszyh.streamlit.app/)
