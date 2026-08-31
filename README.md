@@ -1,21 +1,34 @@
-# Food Waste Prediction System
+# 🍽️ Food Waste Prediction System
 
-A Machine Learning project for predicting food waste using Python and Streamlit.
+A Machine Learning-based web application that predicts food waste using parameters such as food prepared, people served, and temperature.
 
-## Project Description
+## 🚀 Live Demo
 
-The Food Waste Prediction System uses machine learning techniques to predict the amount of food waste based on input data. The project provides a simple Streamlit web interface where users can enter values and obtain predictions.
+[Open Food Waste Prediction System](https://foodwasteprediction-5eyvaceqkogmfvizbcszyh.streamlit.app/)
 
-## Technologies Used
+## 📌 Project Description
+
+Food waste is a major problem that can be reduced through better prediction and planning.
+
+This project uses Machine Learning to predict the amount of food waste based on:
+
+- Food Prepared (kg)
+- People Served
+- Temperature (°C)
+
+The trained Machine Learning model is integrated into a Streamlit web application.
+
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
+- Plotly
 - Streamlit
-- Machine Learning
+- GitHub
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 Food_Waste_Prediction/
@@ -25,4 +38,5 @@ Food_Waste_Prediction/
 │
 ├── app.py
 ├── food_waste_model.pkl
+├── requirements.txt
 └── README.md
